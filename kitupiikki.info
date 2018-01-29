@@ -1,6 +1,9 @@
 Tämän tiedoston avulla ilmoitetaan uusista versioista
-#1\..*
-<table width=100%><h3>Onnea ykkösversion omistajalle!</h3></table>
+#0\.3.*
+<table width=100% class=info><tr><td><h3><a href=ohje:/asennus>Päivitä Kitupiikki</a></h3>
+<p>Kitupiikin versio 0.4 (beta) ilmestyi 29.1.2018. Versiossa on mm. mahdollisuus muokata suoraan tilinavauskirjausta sekä korjattu yhteensopivuusongelma Edgen kanssa.</p>
+</td></tr></table>
+
 # .*-devel
 <table width=100% class=info><tr><td><h3><a href=ohje:/asennus>Päivitä Kitupiikki</a></h3>
 <p>Päivitä vakaaseen versioon</p>
